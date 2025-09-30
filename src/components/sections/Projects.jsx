@@ -33,7 +33,7 @@ export const Projects = () => {
 
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://github.com/Saili1601/Chatspot.git" target="_blank" rel="noopener noreferrer"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
@@ -110,7 +110,7 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://github.com/Saili1601/Dating-Website.git" target="_blank" rel="noopener noreferrer"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
@@ -148,7 +148,7 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center ">
                                 <a
-                                    href="#"
+                                    href="https://github.com/Saili1601/Marketing-Website.git" target="_blank" rel="noopener noreferrer"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
